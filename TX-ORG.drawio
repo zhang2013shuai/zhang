@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36">
   <diagram id="S3nlFg6LARHF8NSgn92S" name="第 2 页">
-    <mxGraphModel dx="6756" dy="4214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5969" dy="3696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="l4jv6mWcyn_euWqEpBgT-0" />
         <mxCell id="l4jv6mWcyn_euWqEpBgT-1" parent="l4jv6mWcyn_euWqEpBgT-0" />
@@ -155,7 +155,7 @@
           <mxGeometry height="160" width="380" x="-3373" y="-1223" as="geometry" />
         </mxCell>
         <mxCell id="TFBkTAcxtBcUG4N7IdAb-126" parent="l4jv6mWcyn_euWqEpBgT-1" style="text;html=1;fontColor=#ffffff;align=center;fontSize=12;" value="2800+ 全球节点  ·  1600+ 海外节点&#xa;HTTPS + Type D 签名  ·  UA + 防盗刷" vertex="1">
-          <mxGeometry height="60" width="380" x="-3373" y="-1153" as="geometry" />
+          <mxGeometry height="60" width="380" x="-3373" y="-1110" as="geometry" />
         </mxCell>
         <mxCell id="TFBkTAcxtBcUG4N7IdAb-127" parent="l4jv6mWcyn_euWqEpBgT-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#00a870;strokeWidth=2;fontSize=12;fontStyle=1;align=center;spacingTop=46;arcSize=8;" value="边缘节点&#xa;&#xa;国内 + 海外&#xa;缓存命中率 90%+" vertex="1">
           <mxGeometry height="160" width="200" x="-2873" y="-1223" as="geometry" />
