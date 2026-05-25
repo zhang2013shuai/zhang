@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36">
   <diagram id="S3nlFg6LARHF8NSgn92S" name="第 2 页">
-    <mxGraphModel dx="5939" dy="3631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6756" dy="4214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="l4jv6mWcyn_euWqEpBgT-0" />
         <mxCell id="l4jv6mWcyn_euWqEpBgT-1" parent="l4jv6mWcyn_euWqEpBgT-0" />
@@ -178,7 +178,7 @@
             <mxPoint x="-3023" y="-923" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFBkTAcxtBcUG4N7IdAb-133" parent="l4jv6mWcyn_euWqEpBgT-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdecea;strokeColor=#e2231a;dashed=1;dashPattern=8 4;fontColor=#e2231a;fontSize=14;fontStyle=1;align=left;verticalAlign=top;spacingLeft=12;spacingTop=8;arcSize=4;" value="④ 端侧 · 联想平板（Ubuntu OS + Docker + OTA Manager）" vertex="1">
+        <mxCell id="TFBkTAcxtBcUG4N7IdAb-133" parent="l4jv6mWcyn_euWqEpBgT-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdecea;strokeColor=#e2231a;dashed=1;dashPattern=8 4;fontColor=#e2231a;fontSize=14;fontStyle=1;align=left;verticalAlign=top;spacingLeft=12;spacingTop=8;arcSize=4;" value="④ 端侧 · aicenter（Ubuntu OS + Docker + OTA Manager）" vertex="1">
           <mxGeometry height="380" width="1620" x="-3833" y="-913" as="geometry" />
         </mxCell>
         <mxCell id="TFBkTAcxtBcUG4N7IdAb-134" parent="l4jv6mWcyn_euWqEpBgT-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6dee8;fontSize=12;fontStyle=1;align=center;spacingTop=46;arcSize=8;" value="联想教育平板（全球分布）&#xa;&#xa;国内 + 海外终端&#xa;就近接入腾讯云 CDN 节点" vertex="1">
